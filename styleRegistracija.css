@@ -1,0 +1,67 @@
+body{
+    background-image: url("slike/pozadina.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.tabela{
+    width: 650px;
+    padding: 30px;
+    text-align: center;
+    margin: auto;
+    margin-top: 10%;
+    background-color: #ededed;
+    border-radius: 20px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 550;
+}
+
+form{
+    margin-right: 70%;
+    
+}
+
+label{
+    margin-top: 10px;
+    display:inline-block;
+}
+
+input{
+    width: 325%;
+    height: 30px;
+    margin-top: 5%;
+    border-width: 0;
+}
+
+.l1{
+    margin-right: 80%;
+}
+
+.l2{
+    margin-right: 45%;
+}
+
+.l3{
+    margin-right: 73%;
+}
+
+.l4{
+    margin-right: 57%;
+}
+
+.dugme{
+    display: inline-block;
+    padding: 20px 30px;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.div2{
+    padding-top: 10px;
+}
